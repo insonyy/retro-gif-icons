@@ -9,3 +9,5 @@ Repository with retro gif icons for your README !
 | Notepad | ![Notepad](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/notepad.gif) | `![Notepad](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/notepad.gif)` |
 | PHP (Dark) | ![PHP](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/php.gif) | `![PHP](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/php.gif)` |
 | PHP (Light) | ![PHP Light](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/php2.gif) | `![PHP](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/php2.gif)` |
+| Vim | ![Vim](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/vim.gif) | `![Vim](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/vim.gif)` |
+| Vim 2 | ![Vim2](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/vim2.gif) | `![Vim2](https://github.com/insonyy/retro-gif-icons/blob/main/gifs/vim2.gif)` |
